@@ -49,6 +49,7 @@
                         android:id="@+id/studID"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
+                        android:inputType="number"
                         android:textSize="24dp"
                         android:hint="ID"/>
 
@@ -91,6 +92,7 @@
                         android:id="@+id/studMark"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
+                        android:inputType="number"
                         android:textSize="24dp"
                         android:hint="Marks"/>
 
